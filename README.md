@@ -1,4 +1,4 @@
-### Hi there 👋 I am Christopher Jung
+## Hi there 👋 I am Christopher Jung
 
 - ✨ I’m studying computer science at Saarland University
 - 🔭 I’m currently working on my Bachelor Thesis
