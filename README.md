@@ -1,7 +1,7 @@
 ## Hello there 👋 I am Christopher Jung
 
 - ✨ I’m studying computer science at Saarland University
-- 🔭 I’m currently working on my Bachelor Thesis
+- 🔭 I obtained a Bachelor's degree in Computer Science (2022)
 
 <!--
 - 🔭 I’m currently working on ...
