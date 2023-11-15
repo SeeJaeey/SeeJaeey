@@ -1,4 +1,4 @@
-## Hello there 👋 I am Christopher Jung
+## Hello there 👋 I am CJ
 
 - ✨ I’m studying computer science at Saarland University
 - 🔭 I obtained a Bachelor's degree in Computer Science (2022)
