@@ -1,8 +1,9 @@
 ## Hello there 👋 I am CJ
 
-- ✨ I’m studying computer science at Saarland University
+- 🔭 I obtained a Master's degree in Computer Science (2022)
 - 🔭 I obtained a Bachelor's degree in Computer Science (2022)
-
+- ✨ I studied computer science at Saarland University
+  
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
