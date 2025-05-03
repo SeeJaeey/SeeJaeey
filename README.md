@@ -1,6 +1,6 @@
 ## Hello there 👋 I am CJ
 
-- 🔭 I obtained a Master's degree in Computer Science (2022)
+- 🔭 I obtained a Master's degree in Computer Science (2025)
 - 🔭 I obtained a Bachelor's degree in Computer Science (2022)
 - ✨ I studied computer science at Saarland University
   
