@@ -1,5 +1,12 @@
-## Hello there 👋 I am CJ
+## Hello there 👋
 
+I'm CJ, a Software Developer based in Germany.
+
+I love problem solving, challenges and learning new tech.
+
+Here are some facts about me:
+
+- 👯 I worked as A Cloud Architect and Software Developer at Comlet Verteilte Systeme GmbH (2023-2026)
 - 🔭 I obtained a Master's degree in Computer Science (2025)
 - 🔭 I obtained a Bachelor's degree in Computer Science (2022)
 - ✨ I studied computer science at Saarland University
